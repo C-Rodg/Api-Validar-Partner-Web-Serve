@@ -1,0 +1,12 @@
+{
+  "name": "api-validar-pws-pusher",
+  "version": "1.0.0",
+  "description": "Push xml to Validar's Partner Web Service.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/C-Rodg/Api-Validar-Partner-Web-Serve.git",
+    "type": "git"
+  },
+  "author": "Curtis Rodgers",
+  "license": "MIT"
+}
