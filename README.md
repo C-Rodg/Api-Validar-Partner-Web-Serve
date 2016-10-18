@@ -1,4 +1,4 @@
-# Api-Validar-Partner-Web-Serve
+# Api-Validar-Partner-Web-Service
 Push xml to Validar's Partner Web Service.
 
 ## API Reference
